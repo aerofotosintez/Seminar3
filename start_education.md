@@ -79,3 +79,5 @@ git config --global user.email ваша почта@example.com
 
 > Установка VSCode для Windows, MAC, Linux: https://code.visualstudio.com/Download
 
+> Справочник по Markdown от Microsoft:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
