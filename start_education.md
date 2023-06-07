@@ -64,12 +64,18 @@ git config --global user.email ваша почта@example.com
 
 ## Изображения и ссылки
 
+* ! [ Иллюстрация к проекту ] (https://github.com/jon/coolproject/raw/master/image/image.png)
+
+* ! [Image alt] (https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+{username} — ваш ник на ГитХабе;
+{repository} — репозиторий где хранятся картинки;
+{branch} — ветка репозитория;
+{path} — путь к месту нахождения картинки.
+
 # Заметки
 
 > Установка Git для Windows, MAC, Linux: https://git-scm.com/downloads
 
 > Установка VSCode для Windows, MAC, Linux: https://code.visualstudio.com/Download
-
-> Справочник по Markdown от Microsoft:
-https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
